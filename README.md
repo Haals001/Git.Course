@@ -1,4 +1,4 @@
-# Git.Couse
+# Git.Course
 Git Course
 
 ## Project Notes
